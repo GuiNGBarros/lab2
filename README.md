@@ -1,4 +1,5 @@
-#Pipeline de Machine Learning – Risco de Crédito (Streamlit + Docker)
+Pipeline de Machine Learning – Risco de Crédito (Streamlit + Docker)
+
 Este projeto implementa um pipeline completo de machine learning para classificação de risco de crédito, abrangendo desde a geração sintética dos dados até o deploy de uma interface web interativa em Streamlit, totalmente containerizada com Docker.
 
 Pipeline de ML
